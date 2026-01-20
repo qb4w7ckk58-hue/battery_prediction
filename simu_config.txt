@@ -1,0 +1,12 @@
+Variable du dataset:Nom de la propriété dans le dataset
+Voltage_measured:Voltage_measured
+Current_measured:Current_measured
+Voltage_charge:Voltage_charge
+Current_charge:Current_charge
+type:type
+ambient_temperature:ambient_temperature
+Temperature_measured:Temperature_measured
+Capacity:Capacity
+Time:Time
+id_cycle:id_cycle
+Battery:Battery
